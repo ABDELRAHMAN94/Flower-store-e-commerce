@@ -1,6 +1,11 @@
-# Flower-Store-e-commrece
-**Bloom Alexandria – Digital Marketing Project**
+# Bloom Alexandria – Omnichannel Flower & Gifting Business
 
-Bloom Alexandria is a local flower shop in Alexandria, Egypt, offering unique floral products. Despite the quality of its products, the business has limited social media visibility and struggles to reach new customers.
+Bloom Alexandria is a local flower and gifting business concept in Alexandria, Egypt, combining the personal experience of a physical flower shop with the convenience of an online store.
 
-This project focuses on improving the shop’s digital presence by creating dedicated landing pages to showcase its floral products, building a consistent brand identity, and using Instagram and Facebook as effective marketing channels to increase brand awareness and attract new customers.
+The business aims to make buying and sending flowers easier, whether customers prefer visiting the shop in person or ordering online for home delivery or surprise gifting across Alexandria.
+
+Beyond selling floral products, Bloom Alexandria focuses on creating meaningful gifting experiences for birthdays, anniversaries, special occasions, and spontaneous gestures. Its proposed digital experience centers on convenient product discovery, occasion-based shopping, personalized gifting, and a consistent brand identity across physical and digital channels.
+
+The goal is to build a recognizable local brand that connects flowers with emotions while making the process of choosing, ordering, and delivering gifts more convenient.
+
+**Project Focus:** Business Positioning, Digital Marketing Strategy, E-commerce, Customer Experience, and Brand Differentiation.
