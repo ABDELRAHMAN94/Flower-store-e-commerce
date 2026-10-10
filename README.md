@@ -1,2 +1,6 @@
 # Flower-Store-e-commrece
-Description: بدأت الفكرة من محل ورد محلي في الإسكندرية لديه منتجات مميزة، لكن حضوره على السوشيال ميديا لا يعكس جودة ما يقدمه ولا يساعده بشكل كافٍ على الوصول إلى عملاء جدد.  من هنا جاء Bloom Alexandria.  مشروع Digital Marketing يهدف إلى تحويل Facebook وInstagram من مجرد صفحات لعرض صور الورد إلى قنوات تسويقية تساعد المحل على بناء هوية واضحة، الوصو
+**Bloom Alexandria – Digital Marketing Project**
+
+Bloom Alexandria is a local flower shop in Alexandria, Egypt, offering unique floral products. Despite the quality of its products, the business has limited social media visibility and struggles to reach new customers.
+
+This project focuses on improving the shop’s digital presence by creating dedicated landing pages to showcase its floral products, building a consistent brand identity, and using Instagram and Facebook as effective marketing channels to increase brand awareness and attract new customers.
